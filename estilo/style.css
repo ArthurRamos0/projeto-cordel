@@ -70,7 +70,7 @@ section.imagem {
 }
 
 section > p {
-    padding-bottom: 1.5em;
+    padding-bottom: 1em;
 
 }
 
@@ -82,12 +82,12 @@ section.normal {
 
 section#img01 {
     background-image: url(../imagens/background001.jpg);
-    background-position: right center;
+    background-position: center center;
 }
 
 section#img02 {
     background-image: url(../imagens/background002.jpg);
-    background-position:   right center;
+    background-position:   center center;
 }
 
 section.imagem > p {
